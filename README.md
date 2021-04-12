@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zmanx
-- 👀 I’m interested in personal development, finance, machine learning, & decentralization.
+- 👀 I’m interested in personal development, finance, machine learning, & decentralized business structures.
 - 🌱 I’m currently learning ReactJS
 - 📫 email me @ manuelucf@gmail.com
 
