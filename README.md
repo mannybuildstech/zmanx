@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zmanx
-- 👀 I’m interested in personal development, finance, machine learning, & decentralized business structures.
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in personal development, machine learning, & decentralized business structures.
+- 🌱 I’m currently learning Azure
 - 📫 email me @ manuelucf@gmail.com
 
 I work with **C#** and **C++** in a daily basis.
